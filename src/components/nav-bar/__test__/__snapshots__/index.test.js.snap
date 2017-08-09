@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="nav-bar"
+>
+  <div
+    className="nav-bar-left"
+  >
+    <button>
+      save
+    </button>
+  </div>
+  <div
+    className="nav-bar-title"
+  >
+    Hello
+  </div>
+  <div
+    className="nav-bar-right"
+  />
+</div>
+`;

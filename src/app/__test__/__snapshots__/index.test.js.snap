@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="nav-bar"
+  >
+    <div
+      className="nav-bar-left"
+    />
+    <div
+      className="nav-bar-title"
+    >
+      React Testing Example
+    </div>
+    <div
+      className="nav-bar-right"
+    />
+  </div>
+  <div
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <h2>
+      Welcome to React
+    </h2>
+  </div>
+  <p
+    className="App-intro"
+  >
+    To get started, edit 
+    <code>
+      src/App.js
+    </code>
+     and save to reload.
+  </p>
+</div>
+`;

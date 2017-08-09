@@ -1,0 +1,20 @@
+{
+  "name": "react-testing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "react-test-renderer": "^15.6.1"
+  }
+}
