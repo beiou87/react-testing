@@ -3,5 +3,6 @@
 exports[`components exports modules correctly 1`] = `
 Array [
   "NavBar",
+  "Link",
 ]
 `;
