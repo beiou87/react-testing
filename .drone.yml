@@ -1,0 +1,16 @@
+pipeline:
+  initialize:
+    image: node
+      commands:
+        - npm install yarn -g
+        - yarn install
+
+  test:
+    image: node
+      commands:
+        - yarn test 
+
+  build:
+    image: node
+      commands:
+        - yarn build
